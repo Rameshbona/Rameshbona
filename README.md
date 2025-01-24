@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rameshbona
-- 👀 I’m interested in software role
+- 👀 I’m interested in software role's
 - 🌱 I’m currently learning advanced data analysis, machine learning techniques
 - 💞️ I’m looking to collaborate on data science projects and open-source contributions
 - 📫 How to reach me : https://www.linkedin.com/in/rameshbona
