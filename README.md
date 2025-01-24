@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rameshbona
-- 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently learning advanced data analysis and machine learning techniques
+- 👀 I’m interested in software role
+- 🌱 I’m currently learning advanced data analysis, machine learning techniques
 - 💞️ I’m looking to collaborate on data science projects and open-source contributions
 - 📫 How to reach me : https://www.linkedin.com/in/rameshbona
 - 😄 Pronouns: He/Him
